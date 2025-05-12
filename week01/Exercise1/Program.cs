@@ -13,6 +13,6 @@ class Program
         Console.Write("what is your middle name? ");
         string middle = Console.ReadLine();
 
-        Console.WriteLine($"Your name is {last}, {first} {middle}.");
+        Console.WriteLine($"Your name is {last}, {first}, {middle}.");
     }
 }
